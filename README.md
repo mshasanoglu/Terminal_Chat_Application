@@ -1,1 +1,1 @@
-# Terminal_Chat_Application
+# Terminal Chat Application
